@@ -9,7 +9,7 @@
     "keywords": ["ami", "manager", "asteriski", "php-ami"],
     "minimum-stability": "beta",
     "require": {
-        "wisembly/elephant.io": "^4.3"
+        "elephantio/elephant.io": "^4.3"
     },
     "autoload": {
         "psr-4": {
